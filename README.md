@@ -1,0 +1,1 @@
+JpaMapper是尽量按照JPA hibernate的书写风格，对mybatis进行封装，是CRUD操作更加简单易用，免于不断写sql。
